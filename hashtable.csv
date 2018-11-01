@@ -1,4 +1,4 @@
-,, Note: all values are defined in multiformats/multicodecs
+,, Note: all values are defined in multiformats/multicodec
 codec, description, code
 identity,           ,                         0x00
 md4,                ,                         0xd4
